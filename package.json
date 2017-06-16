@@ -1,10 +1,14 @@
 {
   "name": "watchmen-plugin-discord-webhook",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Watchmen plugin to execute a Discord webhook",
   "main": "./lib/index.js",
   "author": "lookapanda <doenervich@gmx.at>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lookapanda/watchmen-plugin-discord-webhook.git"
+  },
   "dependencies": {
     "moment": "^2.18.1",
     "request": "^2.81.0",
