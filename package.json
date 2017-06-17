@@ -1,6 +1,6 @@
 {
   "name": "watchmen-plugin-discord-webhook",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Watchmen plugin to execute a Discord webhook",
   "main": "./lib/index.js",
   "author": "lookapanda <doenervich@gmx.at>",
